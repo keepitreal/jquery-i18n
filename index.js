@@ -539,3 +539,5 @@ cbSplit._nativeSplit = String.prototype.split;
 String.prototype.split = function (separator, limit) {
     return cbSplit(this, separator, limit);
 };
+
+module.exports = $.i18n;

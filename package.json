@@ -1,6 +1,6 @@
 {
   "name": "jquery-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CommonJS enabled jQuery-i18n package",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "jquery-i18n",
     "i18n"
   ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/keepitreal/jquery-i18n"    
+  },
   "author": "Nuno Fernandes, Matthew Lohbihler",
   "license": "MIT",
   "dependencies": {
