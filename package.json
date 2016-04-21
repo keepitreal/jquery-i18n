@@ -1,0 +1,18 @@
+{
+  "name": "jquery-i18n",
+  "version": "1.0.0",
+  "description": "CommonJS enabled jQuery-i18n package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery-i18n",
+    "i18n"
+  ],
+  "author": "Nuno Fernandes, Matthew Lohbihler",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
