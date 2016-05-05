@@ -6,6 +6,10 @@ on the client side with a CommonJS module loader like Webpack or Browserify.
 Usage
 
 ```
+npm i jquery-i18n --save
+```
+
+```
 var i18n = require('jquery-i18n');
 
 i18n.properties({
